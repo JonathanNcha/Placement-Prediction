@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "CGPA": -0.309343,
+            "Internships": -0.073889,
+            "Projects": -1.182822,
+            "Workshops/Certifications": -0.014598,
+            "AptitudeTestScore": -1.770910,
+            "SoftSkillsRating": 0.184742,
+            "ExtracurricularActivities": 0,
+            "PlacementTraining": 0,
+            "SSC_Marks": -0.782306,
+            "HSC_Marks": 0.504368
+        },
+        {
+            "CGPA": 1.877818,
+            "Internships": -1.575689,
+            "Projects": 1.121526,
+            "Workshops/Certifications": 1.091319,
+            "AptitudeTestScore": 1.292970,
+            "SoftSkillsRating": -0.787072,
+            "ExtracurricularActivities": 1,
+            "PlacementTraining": 1,
+            "SSC_Marks": 0.847618,
+            "HSC_Marks": 0.840726
+        }
+    ]
+}
